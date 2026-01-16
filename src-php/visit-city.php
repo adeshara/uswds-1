@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Discover attractions, events, dining, and activities that make our city a great place to visit year-round." />
+    <title>Visit the City - RFPMart + USWDS</title>
+    <meta name="description" content="Plan your visit with information on attractions, events, maps, and visitor resources." />
 
     <?php require_once '1_head.php'; ?>
 </head>
@@ -19,7 +20,7 @@
                     <nav class="usa-breadcrumb bg-transparent" aria-label="Breadcrumbs">
                         <ul class="usa-breadcrumb__list">
                             <li class="usa-breadcrumb__list-item">
-                                <a href="index.html" class="usa-breadcrumb__link">
+                                <a href="./" class="usa-breadcrumb__link">
                                     <span class="text-base-lightest hover:text-base-light">Home</span>
                                 </a>
                             </li>

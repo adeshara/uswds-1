@@ -93,7 +93,7 @@
 	<header class="usa-header usa-header--extended">
 		<div class="usa-navbar">
 			<div class="usa-logo">
-				<em class="usa-logo__text"><a href="index.html" title="<Project title>">RFPMart City</a></em>
+				<em class="usa-logo__text"><a href="./" title="<Project title>">RFPMart City</a></em>
 			</div>
 			<button type="button" class="usa-menu-btn z-top">Menu</button>
 
@@ -130,7 +130,7 @@
 						</button>
 						<ul id="basic-nav-section-one" class="usa-nav__submenu">
 							<li class="usa-nav__submenu-item">
-								<a href="/uswds-1/">Home - City Government</a>
+								<a href="./">Home - City Government</a>
 							</li>
 							<li class="usa-nav__submenu-item">
 								<a href="visit-city.html">Home - Visit City</a>

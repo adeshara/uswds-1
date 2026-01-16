@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Meet the City Council, review agendas and minutes, and learn how your representatives are working for the community." />
+    <title>City Council - RFPMart + USWDS</title>
+    <meta name="description" content="Learn about the City Council’s role, council members, meeting schedules, public participation, and access to official records." />
+
 
     <?php require_once '1_head.php'; ?>
 </head>
@@ -19,7 +21,7 @@
                     <nav class="usa-breadcrumb bg-transparent" aria-label="Breadcrumbs">
                         <ul class="usa-breadcrumb__list">
                             <li class="usa-breadcrumb__list-item">
-                                <a href="index.html" class="usa-breadcrumb__link">
+                                <a href="./" class="usa-breadcrumb__link">
                                     <span class="text-base-lightest hover:text-base-light">Home</span>
                                 </a>
                             </li>

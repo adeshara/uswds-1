@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create an Account - RFPMart + USWDS</title>
+    <meta name="description" content="Create an account to access city services, submit requests, and manage online interactions." />
 
     <?php require_once '1_head.php'; ?>
 </head>

@@ -5,6 +5,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="" />
+    <title>Secure Sign In - RFPMart + USWDS</title>
+    <meta name="description" content="Sign in securely using multi-factor authentication to protect your city account." />
 
     <?php require_once '1_head.php'; ?>
 </head>

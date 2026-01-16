@@ -10,6 +10,7 @@ and this project adheres to Semantic Versioning.
 ## [1.0.0] - 2026-01-13
 
 ### Added
+
 - Initial public release
 - Core framework structure
 - Routing system
@@ -18,4 +19,21 @@ and this project adheres to Semantic Versioning.
 - MIT license
 
 ### Security
+
+- No known security issues in this release
+
+---
+
+## [1.0.1] - 2026-01-15
+
+### Added
+
+- Added `<title>` and `<meta>` description tags to all pages.
+
+### Changed
+
+- Updated internal links from `href="index.html"` to `href="./"` for cleaner routing.
+
+### Security
+
 - No known security issues in this release

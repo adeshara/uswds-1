@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Access fire safety resources, department services, emergency response info, and fire prevention tips." />
+    <title>Fire Department - RFPMart + USWDS</title>
+    <meta name="description" content="Learn about fire services, safety tips, station locations, emergency contacts, and community resources." />
+
 
     <?php require_once '1_head.php'; ?>
 </head>
@@ -19,7 +21,7 @@
                     <nav class="usa-breadcrumb bg-transparent" aria-label="Breadcrumbs">
                         <ul class="usa-breadcrumb__list">
                             <li class="usa-breadcrumb__list-item">
-                                <a href="index.html" class="usa-breadcrumb__link">
+                                <a href="./" class="usa-breadcrumb__link">
                                     <span class="text-base-lightest hover:text-base-light">Home</span>
                                 </a>
                             </li>

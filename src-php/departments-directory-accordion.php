@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Browse all city departments, their services, contact details, and quick links." />
+    <title>City Departments Directory - RFPMart + USWDS</title>
+    <meta name="description" content="Find city departments, services, contacts, and leadership through an organized and easy-to-navigate directory." />
 
     <?php require_once '1_head.php'; ?>
 </head>
@@ -19,7 +20,7 @@
                     <nav class="usa-breadcrumb bg-transparent" aria-label="Breadcrumbs">
                         <ul class="usa-breadcrumb__list">
                             <li class="usa-breadcrumb__list-item">
-                                <a href="index.html" class="usa-breadcrumb__link">
+                                <a href="./" class="usa-breadcrumb__link">
                                     <span class="text-base-lightest hover:text-base-light">Home</span>
                                 </a>
                             </li>

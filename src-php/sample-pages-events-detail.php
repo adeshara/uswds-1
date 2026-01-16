@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="View up-to-date data on population, economy, demographics, and other key city metrics." />
+    <title>Event Details - RFPMart + USWDS</title>
+    <meta name="description" content="Get full details about a city event, including date, time, location, and description." />
 
     <?php require_once '1_head.php'; ?>
 </head>
@@ -17,7 +18,7 @@
             <nav class="usa-breadcrumb bg-transparent" aria-label="Breadcrumbs">
                 <ul class="usa-breadcrumb__list">
                     <li class="usa-breadcrumb__list-item">
-                        <a href="index.html" class="usa-breadcrumb__link">
+                        <a href="./" class="usa-breadcrumb__link">
                             <span class="">Home</span>
                         </a>
                     </li>

@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Explore current job openings, employee benefits, and career opportunities with the city government." />
+    <title>Job Openings - RFPMart + USWDS</title>
+    <meta name="description" content="Search city job opportunities using filters and concise listings to find the right position." />
 
     <?php require_once '1_head.php'; ?>
 </head>
